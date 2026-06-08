@@ -1,4 +1,4 @@
-<h2>About Me <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=Eepel1&style=flat-square"></h2>
+<h2>About My Public Repos only <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=Eepel1&style=flat-square"></h2>
 
 
 
